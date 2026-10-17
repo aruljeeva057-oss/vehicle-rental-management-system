@@ -1,0 +1,3 @@
+vehicle_rental_system/.env
+**/__pycache__/
+*.py[cod]
